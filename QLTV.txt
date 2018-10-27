@@ -1,4 +1,4 @@
-QUẢN LÝ THƯ VIỆN
+﻿QUẢN LÝ THƯ VIỆN
 
 Modules:
 1. Sách
@@ -34,5 +34,4 @@ I. Sách (Book):
 	- Xuất sách
 	- Chỉnh sửa thông tin sách 
 	- Tra cứu thông tin sách 
-	-
-	
+	- abc

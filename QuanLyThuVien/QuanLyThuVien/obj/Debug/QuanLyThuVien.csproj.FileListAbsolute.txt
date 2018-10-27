@@ -1,0 +1,9 @@
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.formBook.resources
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+F:\Developer\C#\LearnC-withZan\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
