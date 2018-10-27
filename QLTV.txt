@@ -1,0 +1,38 @@
+QUẢN LÝ THƯ VIỆN
+
+Modules:
+1. Sách
+2. Người đọc
+3. Người quản lý
+
+
+I. Sách (Book):
+1. Thông tin Quản lý sách:
+	- Quản lý thông tin sách
+		+ Tên sách
+		+ Tác giả
+		+ Nhà xuất bản
+		+ Ngày xuất bản 
+		+ Giá thành
+		
+		+ Tình trạng sách (độ mới: %)
+		+ Số lưu kho (địa điểm cuốn sách trong thư viện)
+		+ Thể loại sách 
+		+ Trạng thái sách (còn ở kho hay đã cho mượn)
+		+ Mã số sách
+	- Quản lý mượn/trả sách
+		+ Mã sách 
+		+ Người mượn 
+		+ Ngày mượn 
+		+ Ngày dự tính trả
+		+ Ngày trả thực tế
+		+ Ghi chú
+2. Chức năng:
+	- Xác nhận mượn sách
+	- Xác nhận trả sách 
+	- Nhập sách 
+	- Xuất sách
+	- Chỉnh sửa thông tin sách 
+	- Tra cứu thông tin sách 
+	-
+	
