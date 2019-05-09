@@ -1,0 +1,10 @@
+F:\Developer\C#\DBAdder\DBAdder\bin\Debug\DBAdder.exe.config
+F:\Developer\C#\DBAdder\DBAdder\bin\Debug\DBAdder.exe
+F:\Developer\C#\DBAdder\DBAdder\bin\Debug\DBAdder.pdb
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.csprojAssemblyReference.cache
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.Form1.resources
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.Properties.Resources.resources
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.csproj.GenerateResource.cache
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.csproj.CoreCompileInputs.cache
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.exe
+F:\Developer\C#\DBAdder\DBAdder\obj\Debug\DBAdder.pdb
