@@ -46,11 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dialog\Form1.cs">
+    <Compile Include="AddColumnDialog\AddColDialog.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Dialog\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="AddColumnDialog\AddColDialog.Designer.cs">
+      <DependentUpon>AddColDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialog\DBInfo.cs" />
+    <Compile Include="Dialog\DBInfoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialog\DBInfoDialog.Designer.cs">
+      <DependentUpon>DBInfoDialog.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -60,8 +67,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Dialog\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Dialog\DBInfoDialog.resx">
+      <DependentUpon>DBInfoDialog.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
