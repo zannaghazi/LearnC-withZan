@@ -67,6 +67,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddColumnDialog\AddColDialog.resx">
+      <DependentUpon>AddColDialog.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Dialog\DBInfoDialog.resx">
       <DependentUpon>DBInfoDialog.cs</DependentUpon>
     </EmbeddedResource>
